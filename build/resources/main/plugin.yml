@@ -1,0 +1,8 @@
+name: PotionBrewingDisabler
+version: '1.0.0'
+main: de.scholle.potionBrewingDisabler.PotionBrewingDisabler
+api-version: '1.18'
+prefix: PBD
+authors: [ Mobilestars ]
+description: Disables specific potions in the brewing stand, configurable via config.yml
+website: https://modrinth.com/project/potionbrewingdisabler
